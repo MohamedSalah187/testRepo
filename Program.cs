@@ -12,6 +12,7 @@ namespace testRepo
         {
             Console.WriteLine("Welcome to github from console app");
              Console.WriteLine("Welcome to github from remote app");
+            Console.WriteLine("Update from local repo repo");
 
 
             Console.ReadKey();
